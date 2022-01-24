@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SchuleWellen.unity
+    guid: 3c3e3fe7b341ccc4ca3fc4cc83e78eab
   m_configObjects: {}
